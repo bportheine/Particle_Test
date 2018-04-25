@@ -13,7 +13,7 @@ class App extends Component {
             				shadow: {
             					enable: true,
             					color: "#fff",
-            					blur: 5
+            					blur: 1
             				}
             			}
             		}
